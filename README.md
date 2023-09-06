@@ -1,5 +1,4 @@
-# IIS-
-iis高版本短文件名猜解脚本，适用于iis7.5~10.x版本的iis中间件。
+# iis高版本短文件名猜解脚本，适用于iis7.5~10.x版本的iis中间件。
 
 ![image](https://github.com/abc123info/iis7.5-10.x-ShortNameFuzz/assets/143333826/fac7e90a-86d4-42c0-8984-0aa4c4c950c7)
 
