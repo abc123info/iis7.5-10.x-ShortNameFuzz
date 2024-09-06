@@ -2,7 +2,8 @@ iis高版本短文件名猜解脚本，适用于iis7.5~10.x版本的iis中间件
 
 运行环境python2.x
 
-![266050091-fac7e90a-86d4-42c0-8984-0aa4c4c950c7 (1)](https://github.com/user-attachments/assets/7cdfef57-247d-488c-ad61-d0b1d046af43)
+![266050091-fac7e90a-86d4-42c0-8984-0aa4c4c950c7 (1)](https://github.com/user-attachments/assets/3231c18d-fdc1-4f32-914e-40d467a3f27c)
+
 
 iis短文件名猜解脚本改造
 
