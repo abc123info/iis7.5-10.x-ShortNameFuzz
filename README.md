@@ -1,5 +1,7 @@
 iis高版本短文件名猜解脚本，适用于iis7.5~10.x版本的iis中间件。
 
+2025.04.06 修复https证书错误问题，自定义 HTTPSConnection 忽略证书验证。
+
 运行环境python2.x
 
 ![266050091-fac7e90a-86d4-42c0-8984-0aa4c4c950c7 (1)](https://github.com/user-attachments/assets/3231c18d-fdc1-4f32-914e-40d467a3f27c)
